@@ -1,6 +1,6 @@
 <h1>Gabriel Raiol | Portfolio</h1>
 <br/>
-<img src="assets/portfolio.jpg" alt="portfolio_gabriel_raiol" width= 80%>
+<img src="public/assets/portfolio.jpg" alt="portfolio_gabriel_raiol" width= 80%>
 </br>
 <a href="https://raiol.vercel.app/" target="_blank">Link to portfolio</a>
 </br>

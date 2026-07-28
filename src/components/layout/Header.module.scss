@@ -1,0 +1,28 @@
+.header { padding: 2% 0 0 15%; }
+.desktopNav { display: flex; gap: 50px; }
+.link { color: var(--highlight); font: 600 1.5rem var(--body-font); text-decoration: none; transition: font-size .5s; }
+.link:hover { font-size: 1.7rem; }
+.mobileNav { display: none; }
+
+@media (max-width: 1200px) {
+  .header { padding: 0; }
+  .desktopNav { display: none; }
+  .mobileNav { display: block; }
+  .menuButton {
+    -webkit-tap-highlight-color: transparent;
+    position: absolute; z-index: 1; top: 0; left: 0; padding: 1.5rem;
+    background: none; border: 0; cursor: pointer;
+    span { display: block; width: 30px; height: 3.5px; margin: 4px auto; background: var(--text); transition: .5s; }
+  }
+  .active span:nth-child(1) { transform: rotate(-45deg) translate(-5px, 5px); }
+  .active span:nth-child(2) { opacity: 0; }
+  .active span:nth-child(3) { transform: rotate(45deg) translate(-5px, -5px); }
+  .mobileLinks {
+    position: absolute; top: 74.5px; left: 0; z-index: 1; display: flex; width: 60%; height: 15rem;
+    flex-direction: column; justify-content: space-around; background: var(--hover-background);
+    text-align: left; transform: translateX(-100%); opacity: 0; transition: all .5s ease;
+  }
+  .show { transform: translateX(0); opacity: 1; }
+  .link { padding-left: 1.5rem; color: var(--text); font-size: 1.2rem; font-weight: 400; }
+  .link:hover { font-size: 1.3rem; }
+}
