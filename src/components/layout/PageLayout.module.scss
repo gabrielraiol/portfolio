@@ -21,7 +21,7 @@
 
 @media (min-width: 1200px) { .sticky { position: sticky; top: 25%; align-self: flex-start; } }
 @media (max-width: 1200px) {
-  .presentation { flex-direction: column-reverse; padding: 5% 8%; }
+  .presentation { flex-direction: column-reverse; gap: 40px; padding: 5% 8%; }
   .content { width: auto; }
   .title { font-size: 1.5rem; }
   .paragraph, .small { font-size: 1.125rem; }
