@@ -1,7 +1,7 @@
 .header { padding: 2% 0 0 15%; }
 .desktopNav { display: flex; gap: 50px; }
-.link { color: var(--highlight); font: 600 1.5rem var(--body-font); text-decoration: none; transition: font-size .5s; }
-.link:hover { font-size: 1.7rem; }
+.link { color: var(--highlight); font: 600 1.125rem var(--body-font); text-decoration: none; transition: font-size .5s; }
+.link:hover { font-size: 1.26rem; }
 .mobileNav { display: none; }
 
 @media (max-width: 1200px) {

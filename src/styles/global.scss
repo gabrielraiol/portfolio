@@ -24,8 +24,10 @@ body {
 
 .cor-destaque, strong { color: var(--highlight); }
 .emissor, h3 { color: var(--muted-text); }
+h2 { font-size: 1.26rem; }
+h3 { font-size: .945rem; }
 .certificado { color: var(--highlight); text-decoration: none; transition: font-size .5s; }
-.certificado:hover { font-size: 1.5rem; }
+.certificado:hover { font-size: 1.125rem; }
 
 @media (max-width: 1200px) {
   h2 { font-size: 1.25rem; }

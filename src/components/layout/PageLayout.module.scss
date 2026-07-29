@@ -1,8 +1,8 @@
 .presentation { display: flex; align-items: center; justify-content: space-between; gap: 82px; padding: 3rem 15% 5%; }
 .content { display: flex; flex-direction: column; gap: 40px; width: 50%; }
-.title { font: 2rem var(--title-font); }
-.paragraph { font: 1.5rem var(--body-font); text-align: justify; }
-.small { font-size: 1.25rem; }
+.title { font: 1.575rem var(--title-font); }
+.paragraph { font: 1.125rem var(--body-font); text-align: justify; }
+.small { font-size: 1.125rem; }
 .center { text-align: center; }
 .initial { text-align: initial; }
 .avatar {
@@ -15,8 +15,8 @@
 }
 .job { display: flex; flex-direction: column; gap: 40px; }
 .jobHeading { display: flex; flex-direction: column; gap: .825rem; font-family: var(--title-font); }
-.socialLinks { display: flex; flex-direction: column; align-items: center; justify-content: space-between; gap: 32px; h2 { font: 400 1.5rem var(--title-font); } }
-.socialButton { display: flex; width: 50%; align-items: center; justify-content: center; gap: 1rem; padding: 21.5px 0; border: 2px solid var(--highlight); border-radius: 8px; color: var(--text); font: 600 1.5rem var(--body-font); text-decoration: none; transition: all .4s; &:hover { width: 53%; background: var(--hover-background); } }
+.socialLinks { display: flex; flex-direction: column; align-items: center; justify-content: space-between; gap: 32px; h2 { font: 400 1.125rem var(--title-font); } }
+.socialButton { display: flex; width: 50%; align-items: center; justify-content: center; gap: 1rem; padding: 8px 0; border: 2px solid var(--highlight); border-radius: 8px; color: var(--text); font: 600 1.125rem var(--body-font); text-decoration: none; transition: all .4s; &:hover { width: 53%; background: var(--hover-background); } }
 .certificates { display: flex; flex-direction: column; gap: 1.125rem; }
 
 @media (min-width: 1200px) { .sticky { position: sticky; top: 25%; align-self: flex-start; } }
@@ -27,5 +27,5 @@
   .paragraph, .small { font-size: 1.125rem; }
   .socialLinks h2 { font-size: 1.25rem; }
   .socialButton { width: 60%; font-size: 1.25rem; &:hover { width: 65%; } }
-  .avatar { width: 50%; padding-top: 1rem; }
+  .avatar { width: 50%; }
 }
