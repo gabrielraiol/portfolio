@@ -8,18 +8,30 @@
 "ml3": "Experiência",
 "ml4": "Formação",
 
-"home-title": "Desenvolvedor <strong class='breakline' class='cor-destaque'>Front-end</strong>",
-"home-content": "Olá! Sou o Gabriel Raiol, atualmente estou me especializando em desenvolvimento front-end, construindo projetos em <span class='cor-destaque'>React com TypeScript</span>.",
+"home-title": "Tecnologia, Estratégia & <strong class='breakline' class='cor-destaque'>Desenvolvimento</strong>",
+"home-content": "Sou Gabriel Raiol, Assessor de Tecnologia da Informação, atuo na gestão estratégica de projetos, governança de T.I e transformação digital. Paralelamente, desenvolvo aplicações web utilizando <span class='cor-destaque'>React com TypeScript</span>, unindo visão de negócio e conhecimento técnico para criar soluções que geram valor.",
 "apresentacao__links__subtitulo": "Acesse minhas redes:",
 "rodape": "Não existe nada permanente senão a mudança",
 
 "about-head-title": "Sobre mim",
 "about-title": "Sobre mim",
-"about-content": "Formado em Sistemas de Informação pela UFRA, já trabalhei com consultoria e análise de infraestrutura de T.I., realizando levantamento de requisitos, implementação de sistemas e suporte ao usuário. Participei de um projeto de transformação digital na área da saúde pública em um município do interior do Pará, implementando um sistema de Prontuário Eletrônico. Decidi trocar um pouco os ares da minha carreira, e estou estudando <span class='cor-destaque'>desenvolvimento front-end</span>, este portfolio inclusive foi o meu primeiro projeto! Além de entusiasta de tecnologia e inovação, tenho como hobbies o ciclismo, a musculação e o gaming environment 😄",
+"about-content": "Formado em Sistemas de Informação pela UFRA, trabalhei com consultoria e análise de infraestrutura de T.I., realizando levantamento de requisitos, implementação e implantação de sistemas e suporte ao usuário. Participei de um projeto de transformação digital na área da saúde pública em um município do interior do Pará, implementando um sistema de Prontuário Eletrônico. Com 9 anos de atuação em Tecnologia da informação, atualmente estou exercendo a função de Gestor de T.I no setor público, prestando assessoria direta à presidência e à diretoria do órgão, com o contínuo estudo e aplicação de soluções para aprimoramento dos processos de trabalho que dependem deste departamento . Além de entusiasta de tecnologia e inovação, tenho como hobbies o ciclismo, a musculação e o gaming environment 😄",
 
 "experience-head-title": "Experiência",
 "experience-title": "Experiência Profissional",
-"experience-role-3": "Analista de Sistemas",
+"experience-role-5": "Assessor de T.I",
+"experience-company-5": "CRECI PA 12ª Região",
+"experience-date-5": "fev 2025 - atual",
+"experience-content-5": "<li>Responsável pelo planejamento estratégico de aquisições de equipamentos, softwares e serviços, além da gestão do parque tecnológico do órgão. Atua como stakeholder nos contratos de tecnologia, garantindo que os projetos e entregas dos fornecedores estejam alinhados aos objetivos da presidência e da diretoria;</li><br/><li>Lidera a análise e reestruturação de processos relacionados à tecnologia, propondo soluções que impulsionem a eficiência operacional do órgão. Atua na definição de diretrizes, prioridades e no alinhamento dos sistemas corporativos às necessidades institucionais;</li><br/><li>Presta assessoria direta à presidência e diretoria, elaborando pareceres técnicos, conduzindo cronogramas de projetos estratégicos e apoiando a tomada de decisão em temas relacionados à transformação digital, inovação e modernização dos processos internos.</li>",
+"experience-skills-5": "<strong>Competências:</strong> Governança de T.I · Gestão de Projetos · Planejamento Estratégico · Análise de Processos · Liderança · Gestão de Stakeholders · Transformação Digital",
+
+"experience-role-4": "Analista de Suporte a Sistemas",
+"experience-company-4": "Grupo Mônaco",
+"experience-date-4": "fev 2024 - fev 2025",
+"experience-content-4": "<li>Atuava no suporte aos sistemas internos e ERP da empresa, realizando análise de processos, correção de fluxo, permissões e cadastros;</li><br/><li>Atuava em frentes de implantações de aplicações externas, realizando levantamento de requisitos e arquitetando soluções para o time de desenvolvimento interno da empresa;</li><br/><li>Utilização de Banco de Dados Oracle PL/SQL para consultas e alterações de dados e parâmetros.</li>",
+"experience-skills-4": "<strong>Competências:</strong> PL/SQL · ERP · HelpDesk · Análise de Processos",
+
+"experience-role-3": "Analista de Infraestrutura de T.I",
 "experience-company-3": "Órbita Tecnologia",
 "experience-date-3": "set 2021 - dez 2022",
 "experience-content-3": "<li>Lead de implementação do sistema de prontuário eletrônico no município de Barcarena-PA, englobando o levantamento de requisitos, configuração do ambiente cloud server e suporte aos usuários;</li><br/><li>Integrante da equipe responsável pelo processo de transformação digital no mesmo município na Secretaria de Receita, implementando um portal web com integrações de API’s externas como: Chatbot Google DialogFlow, Pipefy para gerenciamento de abertura de solicitações e Google Firebase para controle de Banco de Dados dos usuários cadastrados.</li>",
@@ -32,7 +44,7 @@
 "experience-skills-2": "<strong>Competências:</strong> TCP · Windows Server · Active Directory · Suporte Técnico · Manutenção de Hardware",
 
 "experience-role-1": "Estagiário de TI",
-"experience-company-1": "CRECI 12ª Região PA/AP",
+"experience-company-1": "CRECI PA 12ª Região",
 "experience-date-1": "mai 2017 - mar 2019",
 "experience-content-1": "<li>Prestava consultoria em tecnologia para a diretoria do órgão junto ao meu supervisor;</li><br/><li>Realizava manutenção da rede e das políticas de acesso do servidor e mantinha o helpdesk contínuo aos usuários;</li><br/><li>Levantamento e licitação de hardware mediante aprovação da diretoria para a atualização do parque tecnológico do mesmo.</li>",
 "experience-skills-1": "<strong>Competências:</strong> Windows Server · Active Directory · Firewall Checkpoint · Suporte Técnico · Manutenção de Hardware",

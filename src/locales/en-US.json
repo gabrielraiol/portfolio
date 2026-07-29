@@ -8,16 +8,28 @@
 "ml3": "Experience",
 "ml4": "Education",
 
-"home-title": "Front-End <strong class='breakline' class='cor-destaque'>Developer</strong>",
-"home-content": "Hello! I'm Gabriel Raiol, currently specializing in front-end development, building projects in <span class='cor-destaque'>React with TypeScript</span>.",
+"home-title": "IT Strategy & <strong class='breakline' class='cor-destaque'>Development</strong>",
+"home-content": "I'm Gabriel Raiol, an IT Advisor with experience in IT strategy, project management, IT governance, and digital transformation. I also build web applications using <span class='cor-destaque'>React and TypeScript</span>, bridging business needs and software engineering to deliver scalable, high-value solutions.",
 "apresentacao__links__subtitulo": "Check my links:",
 "rodape": "There is nothing permanent except change",
 
 "about-head-title": "About me",
 "about-title": "About me",
-"about-content": "Graduated in Information Systems from UFRA, I have worked with IT infrastructure consultancy and analysis, carrying out requirements gathering, systems implementation and user support. I participated in a digital transformation project in the area of ​​public health in a municipality in the interior of Pará, implementing an Electronic Medical Record system. I decided to change my career path a little, and I'm studying <span class='cor-destaque'>front-end development</span>, this portfolio was actually my first project! In addition to being a technology and innovation enthusiast, my hobbies are cycling, bodybuilding and the gaming environment 😄",
+"about-content": "Graduated in Information Systems from UFRA, I have worked with IT infrastructure consulting and analysis, performing requirements gathering, system implementation, deployment, and user support. I participated in a digital transformation project in the public healthcare sector in a municipality in the state of Pará, leading the implementation of an Electronic Health Record (EHR) system. With 9 years of experience in Information Technology, I currently serve as an IT Advisor in the public sector, providing direct advisory support to the board and executive leadership. My role focuses on continuously identifying and applying technological solutions to improve business processes and operational efficiency. In addition to being passionate about technology and innovation, I enjoy cycling, strength training, and the gaming environment as personal hobbies. 😄",
 
 "experience-head-title": "Experience",
+"experience-role-5": "IT Advisor",
+"experience-company-5": "CRECI PA 12ª Região",
+"experience-date-5": "feb 2025 - today",
+"experience-content-5": "<li>Responsible for the strategic planning of hardware, software, and service acquisitions, as well as managing the organization's technology infrastructure. Acts as a key stakeholder in technology contracts, ensuring that vendor deliverables are aligned with the goals and expectations of the board and executive leadership;</li><br/><li>Leads the analysis and restructuring of processes related to technology, proposing solutions to enhance operational efficiency. Defines guidelines, sets priorities, and ensures that corporate systems are aligned with the institution's strategic needs;</li><br/><li>Provides direct advisory support to the board and executive leadership, preparing technical reports, managing project roadmaps, and supporting decision-making in areas related to digital transformation, innovation, and process optimization.</li>",
+"experience-skills-5": "<strong>Skills:</strong> IT Governance · Project Management · Strategic Planning · Process Analysis · Leadership · Stakeholder Management · Business Process Improvement · Digital Transformation",
+
+"experience-role-4": "Systems Support Analyst",
+"experience-company-4": "Grupo Mônaco",
+"experience-date-4": "feb 2024 - feb 2025",
+"experience-content-4": "<li>Provided support for the company's internal systems and ERP, performing process analysis, workflow corrections, permissions management, and data maintenance;</li><br/><li>Worked on the implementation of external applications, gathering requirements and designing solutions for the company's internal development team;</li><br/><li>Worked with Oracle PL/SQL databases to run queries and perform data and parameter updates.</li>",
+"experience-skills-4": "<strong>Skills:</strong> PL/SQL · ERP · HelpDesk · Process Analysis",
+
 "experience-title": "Professional Experience",
 "experience-role-3": "Systems Analyst",
 "experience-company-3": "Órbita Tecnologia",
@@ -32,7 +44,7 @@
 "experience-skills-2": "<strong>Skills:</strong> TCP · Windows Server · Active Directory · Technical Support · Hardware Maintenance",
 
 "experience-role-1": "IT Intern",
-"experience-company-1": "CRECI 12ª Região PA/AP",
+"experience-company-1": "CRECI PA 12ª Região",
 "experience-date-1": "may 2017 - mar 2019",
 "experience-content-1": "<li>Provided technology consulting to the organization's leadership under the guidance of my supervisor;</li><br/><li>Maintained the network and access policies for the server and provided continuous helpdesk support to users;</li><br/><li>Survey and bidding for hardware upon approval by the board of directors for updating its technology park.</li>",
 "experience-skills-1": "<strong>Skills:</strong> Windows Server · Active Directory · Checkpoint Firewall · Technical Support · Hardware Maintenance",
