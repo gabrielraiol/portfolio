@@ -5,7 +5,7 @@
 .small { font-size: 1.25rem; }
 .center { text-align: center; }
 .initial { text-align: initial; }
-.avatar { width: 35%; }
+.avatar { width: 35%; border-radius: 5%; border: 1.5px solid var(--highlight); }
 .job { display: flex; flex-direction: column; gap: 40px; }
 .jobHeading { display: flex; flex-direction: column; gap: .825rem; font-family: var(--title-font); }
 .socialLinks { display: flex; flex-direction: column; align-items: center; justify-content: space-between; gap: 32px; h2 { font: 400 1.5rem var(--title-font); } }
